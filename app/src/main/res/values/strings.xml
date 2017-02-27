@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CPL</string>
+    <string name="library_list_header">%d Chicago Libraries A to Z\nFind one near you!</string>
+    <string name="library_list_header_no_count">Chicago Libraries A to Z\nFind one near you!</string>
+    <string name="fun_time">Weeeeee!</string>
+    <string name="hours_of_operation">Hours of operation\n\n%s</string>
+    <string name="tap_to_call">tap here to call</string>
+    <string name="title_activity_maps">%s Library</string>
+    <string name="desc_library_image">library image</string>
+</resources>
