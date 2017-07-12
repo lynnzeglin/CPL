@@ -18,7 +18,7 @@
         android:background="@color/colorPrimaryDark"
         android:gravity="center_horizontal"
         android:text="@string/library_list_header_no_count"
-        android:textColor="@color/wallet_bright_foreground_holo_dark"
+        android:textColor="@android:color/holo_blue_bright"
         android:textSize="20sp"
         />
 

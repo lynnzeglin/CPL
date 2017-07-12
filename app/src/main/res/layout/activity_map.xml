@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:padding="16dp"
         android:background="@color/colorPrimaryDark"
-        android:textColor="@color/wallet_bright_foreground_holo_dark"
+        android:textColor="@android:color/holo_blue_bright"
         android:textSize="14sp"
         />
 
